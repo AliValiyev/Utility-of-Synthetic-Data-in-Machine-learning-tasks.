@@ -9,7 +9,8 @@ Links to datasets:
 
 https://archive.ics.uci.edu/ml/datasets/Adult
 https://archive.ics.uci.edu/ml/datasets/census+income
-http://archive.ics.uci.edu/ml/datasets/banknote+authentication  https://archive.ics.uci.edu/ml/datasets/iris 
+http://archive.ics.uci.edu/ml/datasets/banknote+authentication 
+https://archive.ics.uci.edu/ml/datasets/iris 
 https://www.kaggle.com/rakeshrau/social-network-ads
 https://www.kaggle.com/c/titanic/data
 
