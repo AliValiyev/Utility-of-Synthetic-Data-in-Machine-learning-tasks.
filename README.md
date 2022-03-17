@@ -5,6 +5,14 @@ In this repository, I tried to investigate the utility of synthetic data generat
 I used Adult (Census Income), Banknote Authentication, Iris, Social Network Ads, Titanic datasets. My main motivation was "On the Utility of Synthetic Data: An Empirical Evaluation on Machine Learning Tasks" paper by M.Hittmeir, A.Ekelhart and R.Mayer.
 
 
+Links to datasets: 
 
+https://archive.ics.uci.edu/ml/datasets/Adult
+https://archive.ics.uci.edu/ml/datasets/census+income
+http://archive.ics.uci.edu/ml/datasets/banknote+authentication  https://archive.ics.uci.edu/ml/datasets/iris 
+https://www.kaggle.com/rakeshrau/social-network-ads
+https://www.kaggle.com/c/titanic/data
 
 Reference: Markus Hittmeir, Andreas Ekelhart and Rudolf Mayer. 2019. On the Utility of Synthetic Data: An Empirical Evaluation on Machine Learning Tasks
+
+
